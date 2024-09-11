@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+[**Finite-Time Logarithmic Bayes Regret for Thompson Sampling**]
+AA, Branislav Kveton, Sumeet Katariya, Constantine Caramanis, Sujay Sanghavi 
+(working paper)
 
 [**Bayesian Fixed-Budget Best-Arm Identification**](https://arxiv.org/abs/2211.08572)  
 AA, Sumeet Katariya, Sujay Sanghavi, Branislav Kveton  
