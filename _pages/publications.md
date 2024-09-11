@@ -3,15 +3,7 @@ layout: archive
 title: "Publication List"
 permalink: /publications/
 author_profile: true
----
-
-[**Finite-Time Logarithmic Bayes Regret for Thompson Sampling**]
-AA, Branislav Kveton, Sumeet Katariya, Constantine Caramanis, Sujay Sanghavi 
-(working paper)
-
-[**Bayesian Fixed-Budget Best-Arm Identification**](https://arxiv.org/abs/2211.08572)  
-AA, Sumeet Katariya, Sujay Sanghavi, Branislav Kveton  
-(pre-print)  
+---  
 
 [**Contextual Pandora’s Box**](https://arxiv.org/abs/2205.13114)  
 AA, Constantine Caramanis, Evangelia Gergatsouli, Orestis Papadigenopoulos, Christos Tzamos  
@@ -38,6 +30,13 @@ International Conference of Machine Learning (ICML) 2021
 Charilaos Akasiadis, Miguel Ponce-de-Leon, Arnau Montagud, Evangelos Michelioudakis, AA, Elias Alevizos, Alexander Artikis, Alfonso Valencia, Georgios Paliouras  
 Computational Intelligence Journal 2021  
 
+[**Bayesian Fixed-Budget Best-Arm Identification**](https://arxiv.org/abs/2211.08572)  
+AA, Sumeet Katariya, Sujay Sanghavi, Branislav Kveton  
+(pre-print) 2024
+
+**Finite-Time Logarithmic Bayes Regret for Thompson Sampling**  
+AA, Branislav Kveton, Sumeet Katariya, Constantine Caramanis, Sujay Sanghavi  
+(working paper)
 
 
 
